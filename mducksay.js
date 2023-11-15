@@ -39,7 +39,6 @@ console.log(`
  ${'_'.repeat(maxLineWidth + 2)}
 ${lines.join('\n')}
  ${'-'.repeat(maxLineWidth + 2)}
- 
   __
  /  \\
 < ^  \\______
